@@ -1,0 +1,10 @@
+C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\Company.IBLL.dll
+C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\Company.IBLL.pdb
+C:\Users\11478\Desktop\Company\Company.IBLL\obj\Debug\Company.IBLL.csprojResolveAssemblyReference.cache
+C:\Users\11478\Desktop\Company\Company.IBLL\obj\Debug\Company.IBLL.dll
+C:\Users\11478\Desktop\Company\Company.IBLL\obj\Debug\Company.IBLL.pdb
+C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\Company.Model.dll
+C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\EntityFramework.dll
+C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\Company.Model.pdb
+C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\EntityFramework.xml
+C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll

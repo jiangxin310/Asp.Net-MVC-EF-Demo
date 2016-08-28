@@ -1,0 +1,16 @@
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Company.DALContainer.dll
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Company.DALContainer.pdb
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Autofac.dll
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Company.DAL.dll
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Company.IDAL.dll
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\EntityFramework.dll
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Company.Model.dll
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Company.DAL.pdb
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Company.IDAL.pdb
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Autofac.xml
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\EntityFramework.xml
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\Company.Model.pdb
+C:\Users\11478\Desktop\Company\Company.DALContainer\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\11478\Desktop\Company\Company.DALContainer\obj\Debug\Company.DALContainer.csprojResolveAssemblyReference.cache
+C:\Users\11478\Desktop\Company\Company.DALContainer\obj\Debug\Company.DALContainer.dll
+C:\Users\11478\Desktop\Company\Company.DALContainer\obj\Debug\Company.DALContainer.pdb

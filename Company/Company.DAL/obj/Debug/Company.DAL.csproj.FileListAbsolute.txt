@@ -1,0 +1,15 @@
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\Company.DAL.dll
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\Company.DAL.pdb
+C:\Users\11478\Desktop\Company\Company.DAL\obj\Debug\Company.DAL.csprojResolveAssemblyReference.cache
+C:\Users\11478\Desktop\Company\Company.DAL\obj\Debug\Company.DAL.dll
+C:\Users\11478\Desktop\Company\Company.DAL\obj\Debug\Company.DAL.pdb
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\Company.IDAL.dll
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\Company.Model.dll
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\EntityFramework.dll
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\Company.IDAL.pdb
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\Company.Model.pdb
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\EntityFramework.xml
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\11478\Desktop\Company\Company.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll

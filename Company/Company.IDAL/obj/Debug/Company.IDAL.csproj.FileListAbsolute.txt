@@ -1,0 +1,10 @@
+C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\Company.IDAL.dll
+C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\Company.IDAL.pdb
+C:\Users\11478\Desktop\Company\Company.IDAL\obj\Debug\Company.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\11478\Desktop\Company\Company.IDAL\obj\Debug\Company.IDAL.dll
+C:\Users\11478\Desktop\Company\Company.IDAL\obj\Debug\Company.IDAL.pdb
+C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\Company.Model.dll
+C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\EntityFramework.dll
+C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\Company.Model.pdb
+C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\EntityFramework.xml
+C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll

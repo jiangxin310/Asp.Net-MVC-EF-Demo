@@ -1,0 +1,11 @@
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\Company.Model.dll
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\Company.Model.pdb
+C:\Users\11478\Desktop\Company\Company.Model\obj\Debug\Company.Model.dll
+C:\Users\11478\Desktop\Company\Company.Model\obj\Debug\Company.Model.pdb
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\Company.Model.dll.config
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\EntityFramework.dll
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\EntityFramework.xml
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
